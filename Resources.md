@@ -1,4 +1,5 @@
 # Important Links 
+<br />
 This may not be all of the important links, and can be updated in the future.
 
 - [The team website](https://team2480.org/)
