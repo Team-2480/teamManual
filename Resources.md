@@ -15,6 +15,7 @@
 
 ## Documentation
   - [Game Manual](https://firstfrc.blob.core.windows.net/frc2025/Manual/2025GameManual.pdf)
+  - [Game Manual Unofficial Mirror](https://www.frcmanual.com/2025/arena)
   - [Wpilib docs](https://docs.wpilib.org/en/stable/index.html)
   - [Revlib docs](https://docs.revrobotics.com/revlib)
   - [Reference for status leds](https://docs.wpilib.org/en/stable/docs/hardware/hardware-basics/status-lights-ref.html)
@@ -32,6 +33,12 @@
   - [Statrobotics (top teams)](https://www.statbotics.io/teams)
   - [Blue Alliance (scouting)](https://www.thebluealliance.com/)
 <br />
+
+## Parts Shopping
+  -[Andy Mark (FIRST credits)](https://www.andymark.com/)
+  -[REV robotics](https://www.revrobotics.com/)
+  -[McMaster-carr (hardware)](https://www.mcmaster.com/)
+  -[Sparkfun (electronics)](https://www.sparkfun.com/)
 
 ## CAD Models
   - [Models supplied by FIRST](https://www.firstinspires.org/robotics/frc/playing-field)
