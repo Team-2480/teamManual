@@ -1,8 +1,8 @@
 # Important Links 
-<br />
 
 > WPIlib docs have been pinned as everyone should read through this.
 [Wpilib docs](https://docs.wpilib.org/en/stable/index.html)
+<br />
 
 ## Team Info
 
@@ -10,6 +10,7 @@
   - [Team 2480 GitHub](https://github.com/Team-2480)
   - [Our Team Manual](https://github.com/Team-2480/teamManual)
   - [Blue Alliance Team Page](https://www.thebluealliance.com/team/2480)
+<br />
 
 ## Documentation
   - [Game Manual](https://firstfrc.blob.core.windows.net/frc2025/Manual/2025GameManual.pdf)
@@ -24,14 +25,17 @@
   - [Revlib C++ class documentation](https://codedocs.revrobotics.com/cpp/namespacerev.html)
   - [Ctre C++ class documentation](https://api.ctr-electronics.com/phoenix6/release/cpp/)
   - [Open CV documentation](https://docs.opencv.org/4.x/index.html)
+<br />
 
 ## Tools
   - [Statrobotics (top teams)](https://www.statbotics.io/teams)
   - [Blue Alliance (scouting)](https://www.thebluealliance.com/)
+<br />
 
 ## CAD Models
-  -[Models supplied by FIRST](https://www.firstinspires.org/robotics/frc/playing-field)
+  - [Models supplied by FIRST](https://www.firstinspires.org/robotics/frc/playing-field)
   > robot designs are in the google drive
+<br />
 
 ## Getting help
   > The wpilib docs has almost everything if a mentor can't help you. As a team starting out, read read read.
