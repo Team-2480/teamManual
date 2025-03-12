@@ -32,13 +32,14 @@
 ## Tools
   - [Statrobotics (top teams)](https://www.statbotics.io/teams)
   - [Blue Alliance (scouting)](https://www.thebluealliance.com/)
+  - [Teams Map](https://frcmap.com/)
 <br />
 
 ## Parts Shopping
-  -[Andy Mark (FIRST credits)](https://www.andymark.com/)
-  -[REV robotics](https://www.revrobotics.com/)
-  -[McMaster-carr (hardware)](https://www.mcmaster.com/)
-  -[Sparkfun (electronics)](https://www.sparkfun.com/)
+  - [Andy Mark (FIRST credits)](https://www.andymark.com/)
+  - [REV robotics](https://www.revrobotics.com/)
+  - [McMaster-carr (hardware)](https://www.mcmaster.com/)
+  - [Sparkfun (electronics)](https://www.sparkfun.com/)
 
 ## CAD Models
   - [Models supplied by FIRST](https://www.firstinspires.org/robotics/frc/playing-field)
