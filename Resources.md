@@ -1,7 +1,8 @@
 # Important Links 
 
-> WPIlib docs have been pinned as everyone should read through this.
+> WPIlib docs have been pinned<br />
 [Wpilib docs](https://docs.wpilib.org/en/stable/index.html)
+
 <br />
 <br />
 
@@ -26,13 +27,15 @@
   - [Wpilib C++ class documentation](https://github.wpilib.org/allwpilib/docs/release/cpp/index.html)
   - [Revlib C++ class documentation](https://codedocs.revrobotics.com/cpp/namespacerev.html)
   - [Ctre C++ class documentation](https://api.ctr-electronics.com/phoenix6/release/cpp/)
-  - [Open CV documentation](https://docs.opencv.org/4.x/index.html)
+  - [Open CV API documentation](https://docs.opencv.org/4.x/index.html)
+  - [Pathplanner class documentation](https://pathplanner.dev/api/cpp/)
 <br />
 
 ## Tools
   - [Statrobotics (top teams)](https://www.statbotics.io/teams)
   - [Blue Alliance (scouting)](https://www.thebluealliance.com/)
   - [Teams Map](https://frcmap.com/)
+  - [ReCalc load calculators](https://www.reca.lc/)
 <br />
 
 ## Parts Shopping
@@ -43,11 +46,11 @@
 
 ## CAD Models
   - [Models supplied by FIRST](https://www.firstinspires.org/robotics/frc/playing-field)
-  > robot designs are in the google drive
+  > Robot designs are in the Google Drive
 <br />
 
 ## Getting help
-  > The wpilib docs has almost everything if a mentor can't help you. As a team starting out, read read read.
+  > The WPILIB docs has information about everything FRC, not just WPILIB
   - [Wpilib docs](https://docs.wpilib.org/en/stable/index.html)
   - [Chief Delphi (forum)](https://www.chiefdelphi.com/)
 
@@ -59,17 +62,18 @@
 
 ### Hard FRC concepts explained
 
-  - [PID explained](https://pidexplained.com/pid-controller-explained/)
+  - [PID explained](https://www.youtube.com/watch?v=UR0hOmjaHp0)
+  - [PID examples](https://www.youtube.com/watch?v=XfAt6hNV8XM)
   - [PID simulation](https://pknessness.github.io/pid_sim/pid.html)
   - [PWM explained](https://learn.sparkfun.com/tutorials/pulse-width-modulation/all)
   
 ### General Science & Engineering learning resources
 
-  > As engineers learning something new is always useful. Learning is fun, be curious!
+  > As engineers, learning something new is always useful. Learning is fun; be curious!
   - [Khan Academy (Physics and math) \<practice questions, lectures\> ](https://www.khanacademy.org/)
   - [MIT open courseware \<recorded lectures (& misc coursework)\>](https://ocw.mit.edu/)
   - [engineer4free \<lectures\> ](https://www.engineer4free.com/)
-  - [JG Organic Chemistry Tutor (literally all of highschool) <lectures & guided examples>](https://www.video-tutor.net/)
+  - [JG Organic Chemistry Tutor (literally all of high school) <lectures & guided examples>](https://www.video-tutor.net/)
   - [3blue1brown (check out SoMe!) \<animations\> ](https://www.3blue1brown.com/)
   - [Excercism \<interactive coding\> ](https://exercism.org/)
   - [Coding roadmaps \<learning guides\> ](https://roadmap.sh/)
