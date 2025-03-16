@@ -15,9 +15,10 @@
 <br />
 
 ## Documentation
+  - [Wpilib docs](https://docs.wpilib.org/en/stable/index.html)
+  - [Wpilib C++ template/example code](https://github.com/wpilibsuite/allwpilib/tree/main/wpilibcExamples/src/main/cpp)
   - [Game Manual](https://firstfrc.blob.core.windows.net/frc2025/Manual/2025GameManual.pdf)
   - [Game Manual Unofficial Mirror](https://www.frcmanual.com/2025/arena)
-  - [Wpilib docs](https://docs.wpilib.org/en/stable/index.html)
   - [Revlib docs](https://docs.revrobotics.com/revlib)
   - [Reference for status leds](https://docs.wpilib.org/en/stable/docs/hardware/hardware-basics/status-lights-ref.html)
   - [FIRST technical resources](https://www.firstinspires.org/resource-library/frc/technical-resources)
@@ -43,7 +44,7 @@
   - [REV robotics](https://www.revrobotics.com/)
   - [McMaster-carr (hardware)](https://www.mcmaster.com/)
   - [Sparkfun (electronics)](https://www.sparkfun.com/)
-
+<br />
 ## CAD Models
   - [Models supplied by FIRST](https://www.firstinspires.org/robotics/frc/playing-field)
   > Robot designs are in the Google Drive
