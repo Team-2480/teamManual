@@ -56,12 +56,14 @@
   > The WPILIB docs has information about everything FRC, not just WPILIB
   - [Wpilib docs](https://docs.wpilib.org/en/stable/index.html)
   - [Chief Delphi (forum)](https://www.chiefdelphi.com/)
+<br />
 
 ### Tutorial sites 
 
   - [frc zero](https://gm0.org/en/latest/)
   - [learnCpp](https://www.learncpp.com/)
   - [team 6328 wiring blog entry](https://www.littletonrobotics.org/all-things-electrical/)
+<br />
 
 ### Hard FRC concepts explained
 
@@ -69,7 +71,8 @@
   - [PID examples](https://www.youtube.com/watch?v=XfAt6hNV8XM)
   - [PID simulation](https://pknessness.github.io/pid_sim/pid.html)
   - [PWM explained](https://learn.sparkfun.com/tutorials/pulse-width-modulation/all)
-  
+<br />
+
 ### General Science & Engineering learning resources
 
   > As engineers, learning something new is always useful. Learning is fun; be curious!
