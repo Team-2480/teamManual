@@ -18,6 +18,40 @@
    * [Bonus Photos](#bonus-photos)
 
 <!-- TOC end -->
+
+## Notes 2026-11-19
+
+In headers:
+```cpp
+#include <ctre/phoenix/motorcontrol/can/WPI_TalonSRX.h>
+```
+
+setup a new motor in soup
+```cpp
+ctre::phoenix::motorcontrol::can::WPI_TalonSRX name{pid};
+```
+
+make motor move
+```cpp
+name.Set(ctre::phoenix::motorcontrol::ControlMode::PercentOutput, number);
+```
+
+| Type             | Description                          |
+| --------------   | ---------------                      |
+| Current          | Input current closed loop            |
+| Disabled         | Disable Motor Controller             |
+| Follower         | Follow other motor controller        |
+| MotionMagic      | Motion Magic                         |
+| MotionProfile    | Motion Profile                       |
+| MotionProfileArc | Motion Profile with auxiliary output |
+| MusicTone        | Plays a single tone.                 |
+| PercentOutput    | Percent output [-1,1]                |
+| Position         | Position closed loop                 |
+| Velocity         | Velocity closed loop                 |
+
+
+
+
 ## Notes 2026-10-27
 
 ### Areas Covered
