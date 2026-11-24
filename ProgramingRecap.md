@@ -21,6 +21,35 @@
 
 ## Notes 2026-11-19
 
+### Git
+
+!! Danger !!
+```
+git reset --hard
+```
+
+add
+```
+git add -A
+```
+
+commit
+```
+git commit -m "message"
+```
+
+push
+```
+git push
+```
+
+pull
+```
+git pull
+```
+
+### Motors
+
 In headers:
 ```cpp
 #include <ctre/phoenix/motorcontrol/can/WPI_TalonSRX.h>
@@ -48,8 +77,6 @@ name.Set(ctre::phoenix::motorcontrol::ControlMode::PercentOutput, number);
 | PercentOutput    | Percent output [-1,1]                |
 | Position         | Position closed loop                 |
 | Velocity         | Velocity closed loop                 |
-
-
 
 
 ## Notes 2026-10-27
